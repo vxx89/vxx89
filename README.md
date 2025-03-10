@@ -1,5 +1,6 @@
 ## Hi there 👋
 
+Welcome to the singularity of bad ideas.
 <!--
 **vxx89/vxx89** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
